@@ -1,1 +1,3 @@
 Hello World file2
+
+These are the new changes made.
